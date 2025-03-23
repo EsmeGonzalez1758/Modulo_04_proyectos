@@ -39,6 +39,6 @@
 ### 4. Mostrar itineario de viajes
 [![image.png](https://i.postimg.cc/MTwGZfh3/image.png)](https://postimg.cc/rdhTQsy5)
 #### Esta función muestra un resumen de todos los viajes registrados. Utiliza forEach para imprimir detalles de cada viaje. Luego, calcula el costo total de todos los viajes, aplica cualquier descuento y muestra el costo final.
-## Uso
+## Uso app.js
 [![image.png](https://i.postimg.cc/0QzVQrDm/image.png)](https://postimg.cc/62NrbWH5)
 #### Este bloque de código inicia la aplicación. Define un número de personas y registra varios destinos. Finalmente, llama a la función visualizarResumenViajes para mostrar un resumen de los viajes registrados.
